@@ -11,4 +11,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0043-multiply-strings) |
+## String
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
