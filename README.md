@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0001-two-sum) |
 | [0074-search-a-2d-matrix](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0128-longest-consecutive-sequence) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0128-longest-consecutive-sequence) |
 ## Math
 |  |
 | ------- |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0075-sort-colors) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
