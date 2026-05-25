@@ -63,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0128-longest-consecutive-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
