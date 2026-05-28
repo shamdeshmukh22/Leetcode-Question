@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0128-longest-consecutive-sequence) |
 | [0383-ransom-note](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0043-multiply-strings) |
 | [0383-ransom-note](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0443-string-compression) |
 ## Simulation
 |  |
@@ -77,4 +79,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
