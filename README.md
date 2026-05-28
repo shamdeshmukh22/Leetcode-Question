@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0043-multiply-strings) |
+| [0866-prime-palindrome](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0866-prime-palindrome) |
 ## String
 |  |
 | ------- |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0392-is-subsequence) |
+## Number Theory
+|  |
+| ------- |
+| [0866-prime-palindrome](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0866-prime-palindrome) |
 <!---LeetCode Topics End-->
