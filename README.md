@@ -53,11 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0222-count-complete-tree-nodes) |
 | [0450-delete-node-in-a-bst](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0222-count-complete-tree-nodes) |
 | [0450-delete-node-in-a-bst](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0450-delete-node-in-a-bst) |
 ## Two Pointers
@@ -113,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0450-delete-node-in-a-bst) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
