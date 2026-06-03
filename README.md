@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0075-sort-colors) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0043-multiply-strings) |
 | [0383-ransom-note](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0387-first-unique-character-in-a-string) |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0094-binary-tree-inorder-traversal) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
