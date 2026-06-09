@@ -17,28 +17,27 @@ class Solution {
     public TreeNode deleteNode(TreeNode root, int key) {
         if(root==null) return null;
         if(root.val<key){
-            root.right=deleteNode(root.right,key);
+           root.right=deleteNode(root.right,key);
         }
         else if(root.val>key){
             root.left=deleteNode(root.left,key);
         }
         else{
-            if(root.left==null && root.right==null){
+             if(root.left==null && root.right==null){
                 return null;
             }
             if(root.left!=null && root.right==null) return root.left;
             if(root.right!=null  && root.left==null) return root.right;
 
-            TreeNode min=MinNode(root.right);
+            TreeNode min=FindMin(root.right);
             root.val=min.val;
             root.right=deleteNode(root.right,min.val);
+
         }
         return root;
     }
-    public TreeNode MinNode(TreeNode root){
-        while(root.left!=null){
-            root=root.left;
-        }
+    public static TreeNode FindMin(TreeNode root){
+        while(root.left!=null)root=root.left;
         return root;
     }
 }
