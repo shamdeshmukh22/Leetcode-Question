@@ -28,13 +28,13 @@ class Solution {
         }
         fast=reverse(slow);
         slow=head;
-        int max=Integer.MIN_VALUE;
+        int max=0;
         while(fast != null && slow !=null){
            max=Math.max(max,slow.val+fast.val);
            slow=slow.next;
            fast=fast.next;
         }
-        System.out.println(slow.val);
+       // System.out.println(slow.val);
         return max;
     }
 }
