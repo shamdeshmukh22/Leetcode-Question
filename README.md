@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0148-sort-list) |
 | [0392-is-subsequence](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0443-string-compression) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Matrix
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0061-rotate-list) |
 | [0147-insertion-sort-list](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0148-sort-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0880-decoded-string-at-index](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0880-decoded-string-at-index) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
