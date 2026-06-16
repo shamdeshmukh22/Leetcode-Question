@@ -15,7 +15,7 @@ class Solution {
                 sb=new StringBuilder(str.repeat(2));
             }
             else if(ch=='%'){
-                sb=new StringBuilder(sb.reverse());
+               sb=sb.reverse();
             }
         }
         return sb.toString();
