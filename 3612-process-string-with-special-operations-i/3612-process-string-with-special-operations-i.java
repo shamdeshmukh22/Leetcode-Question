@@ -11,8 +11,7 @@ class Solution {
                sb.deleteCharAt(sb.length() - 1); 
             }
             else if(ch=='#'){
-                String str=sb.toString();
-                sb=new StringBuilder(str.repeat(2));
+               sb.append(sb.toString());
             }
             else if(ch=='%'){
                sb=sb.reverse();
