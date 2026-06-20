@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0142-linked-list-cycle-ii) |
 | [0383-ransom-note](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0148-sort-list) |
 | [0392-is-subsequence](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0443-string-compression) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0148-sort-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
