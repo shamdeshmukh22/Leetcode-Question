@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1189-maximum-number-of-balloons) |
+| [3941-password-strength](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3941-password-strength) |
 ## Math
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-process-string-with-special-operations-i](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3838-weighted-word-mapping) |
+| [3941-password-strength](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3941-password-strength) |
 ## Simulation
 |  |
 | ------- |
