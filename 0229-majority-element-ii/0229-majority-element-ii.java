@@ -7,10 +7,8 @@ class Solution {
            map.put(nums[i],map.getOrDefault(nums[i],0)+1);
       }
       for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
-            int element = entry.getKey();
-            int val = entry.getValue();
-            if (val > count) {
-                list.add(element);
+            if (entry.getValue() > count) {
+                list.add(entry.getKey());
             }
         }
         return list;
