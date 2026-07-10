@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0128-longest-consecutive-sequence) |
 | [0164-maximum-gap](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0164-maximum-gap) |
+| [0229-majority-element-ii](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0238-product-of-array-except-self) |
 | [1732-find-the-highest-altitude](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0142-linked-list-cycle-ii) |
+| [0229-majority-element-ii](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1189-maximum-number-of-balloons) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0164-maximum-gap) |
+| [0229-majority-element-ii](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0229-majority-element-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1189-maximum-number-of-balloons) |
