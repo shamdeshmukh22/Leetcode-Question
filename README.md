@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0203-remove-linked-list-elements) |
 | [0445-add-two-numbers-ii](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0445-add-two-numbers-ii) |
+| [0707-design-linked-list](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0707-design-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
@@ -240,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
