@@ -7,8 +7,10 @@ class Solution {
         for(int i=0;i<copy.length;i++){
              if(!map.containsKey(copy[i]))map.put(copy[i],rank++);
         }
-        System.out.println(map);
-        for(int i=0;i<arr.length;i++)arr[i]=map.get(arr[i]);
+        // System.out.println(map);
+        for(int i=0;i<arr.length;i++){
+            arr[i]=map.get(arr[i]);
+            }
         return arr;
     }
 }
