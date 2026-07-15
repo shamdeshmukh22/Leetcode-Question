@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2574-left-and-right-sum-differences) |
 | [3838-weighted-word-mapping](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0445-add-two-numbers-ii) |
 | [0866-prime-palindrome](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0866-prime-palindrome) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1344-angle-between-hands-of-a-clock) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0043-multiply-strings) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2390-removing-stars-from-a-string](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2390-removing-stars-from-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3614-process-string-with-special-operations-ii) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0866-prime-palindrome](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0866-prime-palindrome) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sliding Window
 |  |
@@ -267,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0324-wiggle-sort-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
