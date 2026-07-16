@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0222-count-complete-tree-nodes) |
 | [0450-delete-node-in-a-bst](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Tree
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0222-count-complete-tree-nodes) |
 | [0450-delete-node-in-a-bst](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0450-delete-node-in-a-bst) |
 ## Two Pointers
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0113-path-sum-ii) |
 ## Trie
 |  |
 | ------- |
@@ -291,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0112-path-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
