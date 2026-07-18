@@ -20,12 +20,10 @@ class Solution {
         }
         if(size==n) return head.next;
         temp=head;
-        
         for(int i=1;i<size-n;i++){
         temp=temp.next;
         }
-        // if(temp==head && head==) return temp.next;
-        if(temp.next!=null)
+        // if(temp.next!=null)
         temp.next=temp.next.next;
         return head;
     }
