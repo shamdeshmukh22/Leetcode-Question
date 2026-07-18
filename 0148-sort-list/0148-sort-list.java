@@ -9,42 +9,40 @@
  * }
  */
 class Solution {
-     public ListNode sortList(ListNode head){
-      if(head==null || head.next==null) return head;
-         return SpltLinkedList(head);
-
-     }
-    public ListNode SpltLinkedList(ListNode head) {
-         if (head == null || head.next == null)
-            return head;
-
-        ListNode slow=head,fast=head;
-        while(fast!=null&&fast.next!=null && fast.next.next!=null){
-            fast=fast.next.next;
-            slow=slow.next;
-        }
-      fast=slow.next;
-        slow.next=null;
-      ListNode second=SpltLinkedList(head);
-      ListNode first=SpltLinkedList(fast);
-        return MergeLinkedList(first,second);
+    public ListNode sortList(ListNode head) {
+        if(head==null || head.next==null) return head;
+     return  SplitList(head);
     }
-    public ListNode MergeLinkedList(ListNode f1,ListNode f2){
-         ListNode dumpy=new ListNode(-1);
-         ListNode temp=dumpy;
-         while(f1!=null && f2!=null){
-             if(f1.val>f2.val){
-                temp.next=f2;
-                f2=f2.next;
-             }
-             else{
-                 temp.next=f1;
-                f1=f1.next;
-             }
-             temp=temp.next;
+    public static ListNode SplitList(ListNode head){
+        if(head==null || head.next==null) return head;
+          ListNode slow=head,fast=head;
+         while(fast.next!=null && fast.next.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;
          }
-         if(f1!=null) temp.next=f1;
-         if(f2!=null) temp.next=f2;
-         return dumpy.next;
+      ListNode   temp=slow.next;
+         slow.next=null;
+            ListNode left = SplitList(head);
+    ListNode right = SplitList(temp);
+
+    return MergerList(left,right);
+    }
+    public static ListNode MergerList(ListNode l1,ListNode l2){
+        ListNode dumpy=new ListNode(-1);
+        ListNode temp=dumpy;
+        while(l1 != null && l2!=null){
+            if(l1.val<l2.val){
+                temp.next=l1;
+                l1=l1.next;
+            }
+            else{
+                temp.next=l2;
+                l2=l2.next;
+            }
+            temp=temp.next;
+        }
+        if(l1!=null)temp.next=l1;
+        if(l2!=null)temp.next=l2;
+        return dumpy.next;
     }
 }
