@@ -8,9 +8,9 @@ class Solution {
 
         int arr[]=new int[n];
        int i=0,j=0,idx=0;
-        while(i<grid.length){
+        while(i<m){
              j=0;
-             while(j<grid[0].length){
+             while(j<r){
                    arr[idx++]=grid[i][j];
                 j++;
              }
