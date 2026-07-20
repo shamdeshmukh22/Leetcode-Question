@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0880-decoded-string-at-index](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0880-decoded-string-at-index) |
 | [1189-maximum-number-of-balloons](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1768-merge-strings-alternately) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2390-removing-stars-from-a-string](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2390-removing-stars-from-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3614-process-string-with-special-operations-ii) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 ## Binary Search Tree
 |  |
 | ------- |
