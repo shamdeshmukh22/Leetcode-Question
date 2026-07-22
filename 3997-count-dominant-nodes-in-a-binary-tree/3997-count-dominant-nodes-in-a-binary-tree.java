@@ -15,15 +15,15 @@
  */
 class Solution {
     int count=0;
-    public int countNodes(TreeNode root){
-         if(root==null) return 0;
-         int left=countNodes(root.left),right=countNodes(root.right);
-        if(root.val>= Math.max(left,right))
-              count++;
-          return  Math.max(root.val, Math.max(left, right)); 
+    public int cdn(TreeNode root){
+        if(root==null) return 0;
+        int left=cdn(root.left),right=cdn(root.right);
+        int max=Math.max(left,right);
+        if(root.val>=max ) count++;
+        return Math.max(root.val,max);
     }
     public int countDominantNodes(TreeNode root) {
-        int a=countNodes(root);
-        return count;
+       int a=cdn(root);
+       return count;
     }
 }
