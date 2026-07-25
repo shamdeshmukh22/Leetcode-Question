@@ -1,13 +1,17 @@
 class Solution {
     public int maxProduct(int n) {
-        int arr[]=new int[String.valueOf(n).length()];
-        int product=1,i=0;
+        int max=0,secMax=0;
         while(n>0){
-           arr[i++]=n%10;
+          int rem=n%10;
+          if(rem>=max){
+            secMax = max;
+            max=rem;
+          }
+          else if(rem<max && secMax<=rem){
+                secMax=rem;
+          }
             n/=10;
         }
-        Arrays.sort(arr);
-        i=arr.length-1;
-        return arr[i]*arr[i-1];
+       return max*secMax;
     }
 }
