@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2965-find-missing-and-repeated-values) |
+| [3536-maximum-product-of-two-digits](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0324-wiggle-sort-ii) |
 | [0912-sort-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1331-rank-transform-of-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
 |  |
