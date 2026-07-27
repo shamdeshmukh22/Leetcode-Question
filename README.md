@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3614-process-string-with-special-operations-ii](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3614-process-string-with-special-operations-ii) |
 | [3803-count-residue-prefixes](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3803-count-residue-prefixes) |
 | [3838-weighted-word-mapping](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3838-weighted-word-mapping) |
+| [3913-sort-vowels-by-frequency](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3913-sort-vowels-by-frequency) |
 | [3941-password-strength](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3941-password-strength) |
 ## Simulation
 |  |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3913-sort-vowels-by-frequency](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3913-sort-vowels-by-frequency) |
 ## Union-Find
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1189-maximum-number-of-balloons) |
+| [3913-sort-vowels-by-frequency](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3913-sort-vowels-by-frequency) |
 ## Queue
 |  |
 | ------- |
