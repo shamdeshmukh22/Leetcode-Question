@@ -4,8 +4,8 @@ class Solution {
         StringBuilder sb=new StringBuilder("");
         for(int i=0;i<arr.length;i++){
             String rev=new StringBuilder(arr[i]).reverse().toString();
-            sb.append((i==arr.length-1) ? rev : rev+" ");
+            sb.append(rev+" ");
         }
-       return sb.toString();
+       return sb.toString().trim();
     }
 }
