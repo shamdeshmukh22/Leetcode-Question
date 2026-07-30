@@ -19,6 +19,7 @@ class Solution {
         long max=Integer.MIN_VALUE;
         int level=0;
         CountTotalSum(root,1);
+        
        for(var entry:map.entrySet()){
             long val=entry.getValue();
               if(val>=max){
