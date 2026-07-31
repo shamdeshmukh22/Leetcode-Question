@@ -5,13 +5,12 @@ class Solution {
      private  int FactorOfN(int n,int prev) {
         if(prev==n) return n;
         prev=n;
-        int sum=0,i=2;
-        while(i<=n){
+        int sum=0;
+       for(int i=2;i<=n;i++){
             while(n%i==0 && checkPrime(i)) {
                 n/=i;
                 sum+=i;
             }
-            i++;
         }
         return FactorOfN(sum,prev);
     }
