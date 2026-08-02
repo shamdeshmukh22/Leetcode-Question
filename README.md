@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0912-sort-an-array) |
 | [1260-shift-2d-grid](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1331-rank-transform-of-an-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0866-prime-palindrome](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0866-prime-palindrome) |
+| [0877-stone-game](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0397-integer-replacement) |
+| [0877-stone-game](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0877-stone-game) |
 | [2501-longest-square-streak-in-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2501-longest-square-streak-in-an-array) |
 ## Number Theory
 |  |
@@ -377,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0912-sort-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
