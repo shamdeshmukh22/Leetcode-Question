@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1768-merge-strings-alternately) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1839-longest-substring-of-all-vowels-in-order) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2390-removing-stars-from-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2785-sort-vowels-in-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1331-rank-transform-of-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2501-longest-square-streak-in-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2501-longest-square-streak-in-an-array) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2785-sort-vowels-in-a-string](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2785-sort-vowels-in-a-string) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0912-sort-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -376,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0347-top-k-frequent-elements) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Combinatorics
 |  |
 | ------- |
@@ -397,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0912-sort-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Counting Sort
 |  |
 | ------- |
