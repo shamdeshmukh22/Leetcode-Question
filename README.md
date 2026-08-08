@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2501-longest-square-streak-in-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2501-longest-square-streak-in-an-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2965-find-missing-and-repeated-values) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3731-find-missing-elements](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3731-find-missing-elements) |
 | [3803-count-residue-prefixes](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3803-count-residue-prefixes) |
 | [3941-password-strength](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3941-password-strength) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2390-removing-stars-from-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2785-sort-vowels-in-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3612-process-string-with-special-operations-i](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3614-process-string-with-special-operations-ii) |
 | [3803-count-residue-prefixes](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3803-count-residue-prefixes) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1189-maximum-number-of-balloons) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3913-sort-vowels-by-frequency](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3913-sort-vowels-by-frequency) |
 ## Queue
 |  |
