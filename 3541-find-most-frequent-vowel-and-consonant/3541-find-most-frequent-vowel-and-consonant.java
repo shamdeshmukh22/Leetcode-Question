@@ -5,7 +5,7 @@ class Solution {
 
         for(int i=0;i<s.length();i++){
              int idx=s.charAt(i)-'a';
-             System.out.println(idx);
+            //  System.out.println(idx);
              arr[idx]+=1;
         }
         for(int i=0;i<26;i++){
