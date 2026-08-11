@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2574-left-and-right-sum-differences) |
 | [2965-find-missing-and-repeated-values](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2965-find-missing-and-repeated-values) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2501-longest-square-streak-in-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2501-longest-square-streak-in-an-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2965-find-missing-and-repeated-values) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3731-find-missing-elements](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3731-find-missing-elements) |
 | [3803-count-residue-prefixes](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3803-count-residue-prefixes) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2501-longest-square-streak-in-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2501-longest-square-streak-in-an-array) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2785-sort-vowels-in-a-string](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2785-sort-vowels-in-a-string) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3731-find-missing-elements) |
