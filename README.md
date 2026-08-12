@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0692-top-k-frequent-words) |
+| [0845-longest-mountain-in-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0912-sort-an-array) |
 | [1260-shift-2d-grid](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1260-shift-2d-grid) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0845-longest-mountain-in-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0845-longest-mountain-in-array) |
 | [0917-reverse-only-letters](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0917-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0397-integer-replacement) |
+| [0845-longest-mountain-in-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0877-stone-game) |
 | [2501-longest-square-streak-in-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2501-longest-square-streak-in-an-array) |
 ## Number Theory
@@ -433,5 +436,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0845-longest-mountain-in-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
