@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2501-longest-square-streak-in-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2501-longest-square-streak-in-an-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2574-left-and-right-sum-differences) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3731-find-missing-elements) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2501-longest-square-streak-in-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2501-longest-square-streak-in-an-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1839-longest-substring-of-all-vowels-in-order) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search Tree
 |  |
 | ------- |
