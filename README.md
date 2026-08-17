@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2501-longest-square-streak-in-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2501-longest-square-streak-in-an-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2574-left-and-right-sum-differences](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2574-left-and-right-sum-differences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2965-find-missing-and-repeated-values) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0074-search-a-2d-matrix) |
 | [1260-shift-2d-grid](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1260-shift-2d-grid) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2965-find-missing-and-repeated-values](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1451-rearrange-words-in-a-sentence](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2501-longest-square-streak-in-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2501-longest-square-streak-in-an-array) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2785-sort-vowels-in-a-string](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2785-sort-vowels-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
