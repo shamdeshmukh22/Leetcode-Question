@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0648-replace-words](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0648-replace-words) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0451-sort-characters-by-frequency) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0648-replace-words](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0692-top-k-frequent-words) |
 | [0819-most-common-word](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0819-most-common-word) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0287-find-the-duplicate-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0540-single-element-in-a-sorted-array) |
 | [2501-longest-square-streak-in-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2501-longest-square-streak-in-an-array) |
 ## Bit Manipulation
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0443-string-compression) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0845-longest-mountain-in-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0845-longest-mountain-in-array) |
 | [0917-reverse-only-letters](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0917-reverse-only-letters) |
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0451-sort-characters-by-frequency) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0912-sort-an-array) |
