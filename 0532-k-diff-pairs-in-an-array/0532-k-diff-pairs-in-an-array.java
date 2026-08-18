@@ -2,6 +2,7 @@ class Solution {
     public int findPairs(int[] nums, int k) {
         HashMap<Integer,Integer>map=new HashMap<>();
         HashSet<String>set=new HashSet<>();
+
         for(int n:nums){
             map.put(n,map.getOrDefault(n,0)+1);
         }
@@ -16,7 +17,7 @@ class Solution {
                }
             }
             else if(map.containsKey(val) && map.get(val)>0){
-                String str=String.valueOf(Math.min(val,n)+""+Math.max(val,n));
+                String str=Math.min(val,n)+""+Math.max(val,n);
                   set.add(str);
                 map.put(val,map.getOrDefault(val,0)-1);
             }
