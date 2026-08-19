@@ -17,7 +17,8 @@ class Solution {
                  }
                  i++;
             }
-            int count=(n - map.size()) * 2;
+           
+           int count=(n-map.size())*2 ;
 
             for(Map.Entry<Integer,HashSet<Integer>>e:map.entrySet()){
                 HashSet<Integer>set=e.getValue();
@@ -25,7 +26,7 @@ class Solution {
                 for(int j=1;j<=10;j++){
 
                     if(set.contains(j))row=0;
-                    else if(row==0 && (j==2 || j==4 || j==6)) row++;
+                    else if(row==0 && (j==2 || j==4 || j==6)) row=1;
                     else if(row!=0) row++;
                     
                     if(row==4){
