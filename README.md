@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0912-sort-an-array) |
 | [1260-shift-2d-grid](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1386-cinema-seat-allocation) |
 | [1732-find-the-highest-altitude](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0819-most-common-word) |
 | [1189-maximum-number-of-balloons](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1386-cinema-seat-allocation) |
 | [2404-most-frequent-even-element](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2501-longest-square-streak-in-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2501-longest-square-streak-in-an-array) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0287-find-the-duplicate-number) |
 | [0397-integer-replacement](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0397-integer-replacement) |
+| [1386-cinema-seat-allocation](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1386-cinema-seat-allocation) |
 ## Tree
 |  |
 | ------- |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0011-container-with-most-water) |
 | [0324-wiggle-sort-ii](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0324-wiggle-sort-ii) |
 | [0397-integer-replacement](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0397-integer-replacement) |
+| [1386-cinema-seat-allocation](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1386-cinema-seat-allocation) |
 ## Memoization
 |  |
 | ------- |
