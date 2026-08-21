@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1386-cinema-seat-allocation) |
 | [1732-find-the-highest-altitude](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2221-find-triangular-sum-of-an-array) |
