@@ -7,6 +7,7 @@ class Solution {
             prevSum+=nums[i];
             map.put(nums[i],map.getOrDefault(nums[i],0)+1);
         }
+
         if(map.size()==k)max=prevSum;
 
         for(int i=k;i<nums.length;i++){
@@ -14,13 +15,14 @@ class Solution {
             int prevCount=map.get(prev);
 
             if(prevCount == 1) map.remove(prev);
-           else  map.put(prev,prevCount-1);
+           else map.put(prev,prevCount-1);
 
             prevSum-=prev;
             prevSum+=curr;
-            map.put(curr,map.getOrDefault(curr,0)+1);
 
+            map.put(curr,map.getOrDefault(curr,0)+1);
             if(map.size()==k) max=Math.max(max,prevSum);
+            
         }
 
         return max;
