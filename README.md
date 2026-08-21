@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0628-maximum-product-of-three-numbers) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0451-sort-characters-by-frequency) |
+| [0523-continuous-subarray-sum](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0648-replace-words](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0692-top-k-frequent-words) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0043-multiply-strings) |
 | [0263-ugly-number](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0263-ugly-number) |
 | [0445-add-two-numbers-ii](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0445-add-two-numbers-ii) |
+| [0523-continuous-subarray-sum](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0866-prime-palindrome](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0877-stone-game) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0523-continuous-subarray-sum) |
 | [1732-find-the-highest-altitude](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2574-left-and-right-sum-differences) |
 ## Greedy
@@ -473,4 +477,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0845-longest-mountain-in-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3345-smallest-divisible-digit-product-i) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
