@@ -11,9 +11,11 @@ class Solution {
 
         for(int i=k;i<nums.length;i++){
             int prev=nums[i-k],curr=nums[i];
+            int prevCount=map.get(prev);
 
-            map.put(prev,map.getOrDefault(prev,0)-1);
-            if(map.get(prev)==0)map.remove(prev);
+            if(prevCount == 1) map.remove(prev);
+           else  map.put(prev,prevCount-1);
+
             prevSum-=prev;
             prevSum+=curr;
             map.put(curr,map.getOrDefault(curr,0)+1);
