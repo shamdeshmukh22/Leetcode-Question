@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## String
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0540-single-element-in-a-sorted-array) |
 | [2501-longest-square-streak-in-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2501-longest-square-streak-in-an-array) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Matrix
 |  |
 | ------- |
@@ -276,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3913-sort-vowels-by-frequency](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3913-sort-vowels-by-frequency) |
 ## Union-Find
 |  |
@@ -343,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Sliding Window
 |  |
 | ------- |
