@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-prime-palindrome](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1344-angle-between-hands-of-a-clock) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0324-wiggle-sort-ii) |
 | [0397-integer-replacement](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0397-integer-replacement) |
 | [1386-cinema-seat-allocation](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1386-cinema-seat-allocation) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2139-minimum-moves-to-reach-target-score) |
 ## Memoization
 |  |
 | ------- |
