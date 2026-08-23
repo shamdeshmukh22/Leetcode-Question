@@ -7,16 +7,14 @@ class Solution {
            while(i<s.length()){
 
                char ch=s.charAt(i);
-               int idx=vowels.indexOf(ch);
 
-               if(idx!=-1){
+               if(vowels.indexOf(ch)!=-1){
                      count+=1;
                }
 
                if(i==j+k-1){
-                  max=Math.max(max,count);
-                  int id=vowels.indexOf(s.charAt(j));
-                  if(id!=-1){
+                  max=Math.max(count,max);
+                  if(vowels.indexOf(s.charAt(j))!=-1){
                        count-=1;  
                   }
                   j++;
