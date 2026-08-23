@@ -27,6 +27,6 @@ class Solution {
                 st.push(Integer.parseInt(s));
               }
         }
-         return Integer.valueOf(st.pop());
+         return st.pop();
     }
 }
