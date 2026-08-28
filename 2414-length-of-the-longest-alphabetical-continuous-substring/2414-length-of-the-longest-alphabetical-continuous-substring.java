@@ -5,9 +5,9 @@ class Solution {
             int curr=s.charAt(i)-'a',prev=s.charAt(i-1)-'a';
             if(prev+1==curr){
                 count++;
+             max=Math.max(count,max);
             }
             else{
-             max=Math.max(count,max);
             count=1;
             }
          }
