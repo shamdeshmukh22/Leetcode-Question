@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2390-removing-stars-from-a-string) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2785-sort-vowels-in-a-string](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2785-sort-vowels-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
