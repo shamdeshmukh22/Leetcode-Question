@@ -21,10 +21,10 @@ class Solution {
         int disMax=Math.min(maxIndex+1, n-maxIndex);
 
         return Math.min(disMin+disMax,
-        Math.min(
-                    Math.max(minIndex + 1, maxIndex + 1),
-                    Math.max(n - minIndex, n - maxIndex)
-                )
+            Math.min(
+                Math.max(minIndex+1,maxIndex+1),
+                Math.max(n-minIndex,n-maxIndex)
+            )
          );
     }
 }
