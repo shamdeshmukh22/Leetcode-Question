@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0450-delete-node-in-a-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0450-delete-node-in-a-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0450-delete-node-in-a-bst) |
 ## Stack
 |  |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0113-path-sum-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Trie
 |  |
