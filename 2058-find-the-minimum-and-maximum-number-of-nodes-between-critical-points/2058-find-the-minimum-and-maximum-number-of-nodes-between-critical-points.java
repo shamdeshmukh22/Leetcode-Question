@@ -30,7 +30,7 @@ class Solution {
         }
         if(list.size()<2) return new int[]{-1,-1};
         int n=list.size()-1;
-      System.out.println(list);
+     // System.out.println(list);
       int min=Integer.MAX_VALUE;
       for(int i=1;i<=n;i++){
          min=Math.min(min,list.get(i)-list.get(i-1));
