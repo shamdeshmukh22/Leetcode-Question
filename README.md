@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
+| [3904-smallest-stable-index-ii](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1732-find-the-highest-altitude) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2574-left-and-right-sum-differences) |
+| [3904-smallest-stable-index-ii](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3904-smallest-stable-index-ii) |
 ## Greedy
 |  |
 | ------- |
