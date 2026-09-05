@@ -5,14 +5,10 @@ class Solution {
         int max=nums[0],min=nums[n-1];
          
         for(int i=0;i<nums.length;i++){
-            if(max<nums[i]){
-                 max=nums[i];
-            }
+            max=Math.max(max,nums[i]);
             arr[i]=max;
 
-            if(min>nums[n-i-1]){
-                min=nums[n-i-1];
-            }
+            min=Math.min(min,nums[n-i-1]);
             arr[arr.length-1-i]=min;
         }   
 
