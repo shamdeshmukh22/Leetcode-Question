@@ -10,6 +10,7 @@ class Solution {
                 j++;
             }
             int size=j-i+1;
+            
             if(size>2){
                 size-=2;
                 count+=(size*(size+1))/2;
