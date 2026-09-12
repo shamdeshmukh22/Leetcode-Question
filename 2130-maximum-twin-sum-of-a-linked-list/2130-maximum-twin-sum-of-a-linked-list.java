@@ -24,17 +24,15 @@ class Solution {
         while(fast!=null && fast.next!=null){
             fast=fast.next.next;
             slow=slow.next;
+        }
+        slow=reverse(slow);
+        int max=Integer.MIN_VALUE;
 
+        while(slow!=null){
+            max=Math.max(slow.val+head.val,max);
+            slow=slow.next;
+            head=head.next;
         }
-        fast=reverse(slow);
-        slow=head;
-        int max=0;
-        while(fast != null && slow !=null){
-           max=Math.max(max,slow.val+fast.val);
-           slow=slow.next;
-           fast=fast.next;
-        }
-       // System.out.println(slow.val);
         return max;
     }
 }
