@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0912-sort-an-array) |
 | [1260-shift-2d-grid](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1331-rank-transform-of-an-array) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1386-cinema-seat-allocation](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1386-cinema-seat-allocation) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1732-find-the-highest-altitude](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1732-find-the-highest-altitude) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0413-arithmetic-slices) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
