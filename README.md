@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3708-longest-fibonacci-subarray](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3708-longest-fibonacci-subarray) |
 | [3731-find-missing-elements](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3838-weighted-word-mapping) |
+| [3839-number-of-prefix-connected-groups](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3839-number-of-prefix-connected-groups) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3904-smallest-stable-index-ii](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3904-smallest-stable-index-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3731-find-missing-elements](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3731-find-missing-elements) |
 | [3803-count-residue-prefixes](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3803-count-residue-prefixes) |
+| [3839-number-of-prefix-connected-groups](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3839-number-of-prefix-connected-groups) |
 | [3889-mirror-frequency-distance](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3889-mirror-frequency-distance) |
 | [3941-password-strength](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3941-password-strength) |
 ## Math
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3614-process-string-with-special-operations-ii](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3614-process-string-with-special-operations-ii) |
 | [3803-count-residue-prefixes](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3803-count-residue-prefixes) |
 | [3838-weighted-word-mapping](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3838-weighted-word-mapping) |
+| [3839-number-of-prefix-connected-groups](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3839-number-of-prefix-connected-groups) |
 | [3889-mirror-frequency-distance](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3889-mirror-frequency-distance) |
 | [3913-sort-vowels-by-frequency](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3913-sort-vowels-by-frequency) |
 | [3941-password-strength](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3941-password-strength) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3839-number-of-prefix-connected-groups](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3839-number-of-prefix-connected-groups) |
 | [3889-mirror-frequency-distance](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3889-mirror-frequency-distance) |
 | [3913-sort-vowels-by-frequency](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/3913-sort-vowels-by-frequency) |
 ## Queue
