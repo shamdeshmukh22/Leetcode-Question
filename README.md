@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0450-delete-node-in-a-bst) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0450-delete-node-in-a-bst) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Two Pointers
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0450-delete-node-in-a-bst) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Stack
 |  |
 | ------- |
