@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1386-cinema-seat-allocation) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2404-most-frequent-even-element](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1768-merge-strings-alternately](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1768-merge-strings-alternately) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/2390-removing-stars-from-a-string) |
