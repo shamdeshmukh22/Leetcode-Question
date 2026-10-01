@@ -555,4 +555,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0523-continuous-subarray-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shamdeshmukh22/Leetcode-Question/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
